@@ -62,7 +62,7 @@ Live examples at [https://infernojs.github.io/inferno](https://infernojs.github.
 - [dbmonster](https://rawgit.com/infernojs/dbmonster-inferno/master/index.html)
 - [JS Web Frameworks Benchmark - Round 7](https://www.stefankrause.net/js-frameworks-benchmark7/table.html)
 - [Isomorphic-UI-Benchmark](https://github.com/marko-js/isomorphic-ui-benchmarks)
-- [1k Components](https://rawgit.com/infernojs/inferno/master/benchmarks/1kcomponents/index.html)
+- [1k Components](https://infernojs.github.io/inferno/1kcomponents/)
 
 ## Code Example
 
